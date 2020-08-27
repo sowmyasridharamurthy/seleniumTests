@@ -9,4 +9,9 @@ By making use of cucumber hooks and Page object model a test is drawn for the mo
 The same can be expanded by adding more test scenarios. 
 
 
+Selenium
+Cucumber- to define Feature file in BDD, Hooks for test class
+Chai    -    Assertion library( Expect, Should, Assert)
+Approach - Page object Model
+
 
