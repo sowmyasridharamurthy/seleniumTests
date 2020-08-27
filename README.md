@@ -1,10 +1,12 @@
 # selenium_Cucumber
 Simple selenium tests
 
-This is a simple selenium maven project with a simple test using cucumber. 
+This is a simple selenium -Cucumber test.
 
-This framework can be further improved by usinf page object model and better assertions. 
+A simple Gherkin Feature file is used define the scenario for a mock website. 
+By making use of cucumber hooks and Page object model a test is drawn for the mock website. 
 
-P.S : kindly use this only for basic knowledge purpose, using this for enterprise wide implementation may not be a good idea.
+The same can be expanded by adding more test scenarios. 
+
 
 
