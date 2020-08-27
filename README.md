@@ -1,7 +1,7 @@
 # selenium_Cucumber
 Simple selenium tests
 
-This is a simple selenium -Cucumber test.
+This is a sample selenium -Cucumber test.
 
 A simple Gherkin Feature file is used define the scenario for a mock website. 
 By making use of cucumber hooks and Page object model a test is drawn for the mock website. 
